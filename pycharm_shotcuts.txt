@@ -1,0 +1,2 @@
+alt+shift+enter   -> re format the file content
+shift+f10         -> run the recent python file
